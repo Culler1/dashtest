@@ -10,5 +10,5 @@ matplotlib==3.3.1
 plotly==4.14.1
 seaborn==0.11.1
 urllib3==1.25.10
-json
+json==2.*
 watermark==2.1.0
